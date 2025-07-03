@@ -1,0 +1,248 @@
+body       {
+        background: linear-gradient(#090C9B,black);
+ /* background-color:#00FFFF;*//*  */
+     /* background-image:
+      url(mountains.jpg);*//*  */
+      background-size: cover;
+      background-attachment: fixed;
+      /* font-family:georgia, serif; */
+      font-size:14pt;
+      margin:0;
+        font-family: "Quicksand", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: <weight>;
+        font-style: normal;
+
+
+ }
+ #container     {
+     width:80%;
+     background-color:#0000FF  ;
+     height:800px;
+     /*margin-top:0;  */
+     margin-left:auto;
+     margin-right:auto;
+     padding:10px;
+     /*opacity:0.5;*/
+ }
+#intro         {
+    width:45%;
+    float:left;
+}
+#general         {
+    width:45%;
+    float:left;
+    clear:right;
+}
+ h3     {
+     font-size:18pt;
+     font-weight:bold;
+     color:purple;
+     background-color:rgba(255,255,255,0.5);
+ }
+dt      {
+    font-weight:bold;
+    color: purple;
+    font-family:arial black, sans-serif;
+}
+a       {
+    text-decoration:none;
+    padding:10px;
+    background-color:white;
+    display:block;
+}
+#special        {
+    background-color:blue;
+    color:white;
+}
+.sample     {
+   font-family:impact, fantasy;
+   color:red;
+   font-size:18pt;
+}
+
+.edu-vic-wa-nt-hand-pre-<uniquifier> {
+  font-family: "Edu VIC WA NT Hand Pre", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.parisienne-regular {
+  font-family: "Parisienne", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.quicksand-<uniquifier> {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.noto-serif-<uniquifier> {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.dm-serif-text-regular {
+  font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.dm-serif-text-regular-italic {
+  font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+.kaushan-script-regular {
+  font-family: "Kaushan Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.prep       {
+    font-weight:bold;
+}
+ul      {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color:blue;
+}
+
+
+
+
+li      {
+   /* display:inline;*/
+    float:left;
+    /*border-right: solid 3px red;*/
+}
+li a        {
+    display:block;
+    text-align:center;
+    padding: 14px 16px;
+   /* width:20%;*/
+
+}
+li a:hover      {
+    background-color:teal;
+    color:yellow;
+    font-size:16pt;
+    font-weight:bold;
+}
+
+#align      {
+    text-align:center;
+    font-size:xx-large;
+    font-family: "DM Serif Text", serif;
+    border-top: solid 3px navy;
+    border-bottom: solid 3px navy;
+    background-color:pink;
+}
+img     {
+    display:block;
+    width:100px;
+    height:56px;
+    /*border: solid 5px yellow;*/
+    /*border-radius:25px;*/
+    margin:auto;
+    float:left;
+    clear:right;
+
+}
+table       {
+    border-top:solid 5px yellow;
+    border-bottom:solid 5px yellow;
+
+}
+th      {
+    font-size:20pt;
+    font-weight:bold;
+    text-align:left;
+}
+td      {
+    font-size:18pt;
+    font-family:arial, sans-serif;
+}
+#first     {
+    text-align:center;
+    font-weight:bold;
+    color:white;
+    font-size:16pt;
+
+}
+figcaption      {
+  color: white;
+  padding: 2px;
+  text-align: center;
+  font-size:16pt;
+  font-weight: bold;
+
+}
+#ms     {
+    font-family:arial, sans-serif;
+    font-size:14pt;
+    font-weight:bold;
+}
+#lcr        {
+    font-size:20pt;
+    font-weight:bold;
+    font-family: "Kaushan Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+#details        {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size:11pt;
+}
+.bold       {
+    font-weight:bold;
+}
+#nav
+{
+  display :flex;
+  justify-content: space-around;
+  text-align: center;
+  background-color:#090C9B ;
+  padding: 10px 0;
+  width: 100%;
+  border: medium ridge #CCCDD4;
+
+}
+
+#work       {
+/*            background-color: cyan;
+            border-width:  30px;
+            border-bottom-right-radius:30px;
+            border-bottom-left-radius:30px;*/
+            color:white;
+            padding-left: 15px;
+            padding-right: 15px;
+              
+ /*text-align:justify;*/
+
+
+}
+
+span        {
+  font-size:22pt;
+  font-weight:bold;
+
+}
+
+span p      {
+    text-align:center;
+}
+
+
+
